@@ -5,7 +5,7 @@
  <div align="center"><img src="https://github.com/Fanki11er/Fanki11er/raw/master/images/Portrait.svg" width="120px"/></div>
 </br>
 
-## My name is Krzysztof and I'm aspiring to became a Junior Front-end developer
+<h2 align="center">I'm aspiring to became a Junior Front-end developer</h2>
 
 <!--
 **Fanki11er/Fanki11er** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
