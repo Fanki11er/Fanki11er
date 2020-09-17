@@ -8,7 +8,9 @@
 <h2 align="center" style="border-bottom: none">I'm aspiring to became a Junior Front-end developer</h2>
 </br>
 
-<h3 style="width: 100px">My website </h3> <div><img src="https://github.com/Fanki11er/Fanki11er/raw/master/images/Person.svg" width="80px"/></div>
+<div><img src="https://github.com/Fanki11er/Fanki11er/raw/master/images/Person.svg" width="80px"/></div> 
+ 
+ [My website](https://dziedzic-about-me.firebaseapp.com/?utm_source=Github&utm_content=Readme)
 
 <!--
 **Fanki11er/Fanki11er** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
