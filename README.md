@@ -16,7 +16,7 @@
 
 <div><img src="https://github.com/Fanki11er/Fanki11er/raw/master/images/Working-person.svg" width="80px"/></div> 
  
- <h3>My other projects </h3>
+ **My other projects:**
  </br>
 
 [Kasiorka](https://kdz-kasiorka.firebaseapp.com/?utm_source=Github&utm_content=Readme)
