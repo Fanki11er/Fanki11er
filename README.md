@@ -17,14 +17,15 @@
 <div><img src="https://github.com/Fanki11er/Fanki11er/raw/master/images/Working-person.svg" width="80px"/></div> 
  
  **My other projects:**
+ 
  </br>
 
-[Kasiorka](https://kdz-kasiorka.firebaseapp.com/?utm_source=Github&utm_content=Readme)
+[**Kasiorka**](https://kdz-kasiorka.firebaseapp.com/?utm_source=Github&utm_content=Readme)
 
 **Application is for supervising home budget, tracking expenses and predicting budgets shape in the future.**
 </br>
 
-[Qr-warehouse](https://kdz-qr.firebaseapp.com/?utm_source=Github&utm_content=Readme)
+[**Qr-warehouse**](https://kdz-qr.firebaseapp.com/?utm_source=Github&utm_content=Readme)
 
 **Application is for facilitating work in a small warehouse by creating tags with Qr-code and scanning them by phone or tablet.**
 
