@@ -2,10 +2,10 @@
 
  <h2 align="center">Hi there 👋</h2>
  </br>
- <div align="center"><img src="https://github.com/Fanki11er/Fanki11er/raw/master/images/Portrait.svg" width="120px"/></div>
+ <div align="center" border="2px solid white"><img src="https://github.com/Fanki11er/Fanki11er/raw/master/images/Portrait.svg" width="120px"/></div>
 </br>
 
-<h2 align="center" style="border-bottom: none">I'm aspiring to became a Junior Front-end developer</h2>
+<h2 align="center" style="border-bottom: none">Junior Front-end developer</h2>
 </br>
 
 <div><img src="https://github.com/Fanki11er/Fanki11er/raw/master/images/Person.svg" width="80px"/></div> 
@@ -17,6 +17,11 @@
 <div><img src="https://github.com/Fanki11er/Fanki11er/raw/master/images/Working-person.svg" width="80px"/></div> 
  
  **My other projects:**
+
+ [**Battleships**](https://kdz-battleships.firebaseapp.com/)
+
+Battleships game
+</br>
 
 [**Kasiorka**](https://kdz-kasiorka.firebaseapp.com/?utm_source=Github&utm_content=Readme)
 
@@ -39,6 +44,7 @@ Application is for facilitating work in a small warehouse by creating tags with 
 
 - Gatsby
 - GraphQl
+- Docker
 - Jest
 
 ## 🔭 I’m currently working on:
