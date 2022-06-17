@@ -2,7 +2,7 @@
 
  <h2 align="center">Hi there 👋</h2>
  </br>
- <div align="center" ><img src="https://github.com/Fanki11er/Fanki11er/raw/master/images/Portrait.svg" width="120px"/></div>
+ <div align="center" ><img src="https://github.com/Fanki11er/Fanki11er/raw/master/images/Portrait.png" width="120px"/></div>
 </br>
 
 <h2 align="center" style="border-bottom: none">Junior Front-end developer</h2>
