@@ -20,7 +20,7 @@
 
  [**Battleships**](https://kdz-battleships.firebaseapp.com/)
 
-Battleships game
+Free browser multiplayer battleships game.
 </br>
 
 [**Kasiorka**](https://kdz-kasiorka.firebaseapp.com/?utm_source=Github&utm_content=Readme)
@@ -46,13 +46,15 @@ Application is for facilitating work in a small warehouse by creating tags with 
 - GraphQl
 - Docker
 - Jest
+- Socket.io
 
 ## 🔭 I’m currently working on:
 
-**Personal-books-library** - An application for storing a list of books that I have read and want to read.
+**Battleships:**
+
+**Repository:** https://github.com/Fanki11er/Battleships_2
 </br>
 
-**Repository:** https://github.com/Fanki11er/Personal-books-library
 
 <!--
 **Fanki11er/Fanki11er** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
