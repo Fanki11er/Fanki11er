@@ -5,9 +5,12 @@
  <div align="center" ><img src="https://github.com/Fanki11er/Fanki11er/raw/master/images/Portrait.png" width="120px"/></div>
 </br>
 
-<h2 align="center" style="border-bottom: none">Junior Front-end developer</h2>
-</br>
+<h2 align="center" style="border-bottom: none">Front-end developer</h2>
 
+<p>
+I am a graduate of Computer Science at Bialystok University of Technology. I am looking for opportunities to turn my passion for programming into a job and gain my first commercial experience as a Front-end developer. 
+</p>
+</br>
 <div><img src="https://github.com/Fanki11er/Fanki11er/raw/master/images/Person.svg" width="80px"/></div> 
  
  [**My website**](https://dziedzic-about-me.firebaseapp.com/?utm_source=Github&utm_content=Readme)
@@ -18,7 +21,7 @@
  
  **My other projects:**
 
- [**Battleships**](https://kdz-battleships.firebaseapp.com/)
+[**Battleships**](https://kdz-battleships.firebaseapp.com/)
 
 Free browser multiplayer battleships game.
 </br>
@@ -33,28 +36,43 @@ Application is for supervising home budget, tracking expenses and predicting bud
 Application is for facilitating work in a small warehouse by creating tags with Qr-code and scanning them by phone or tablet.
 </br>
 
+[**YouTube playlist with some videos about my projects ▶️**](https://www.youtube.com/playlist?list=PLmF_0FAPtKqHSusK617xdx6xrl3ZdzwaK)
+
 ## Technologies I usually use:
 
 - React
 - TypeScript
 - Styled-components
-- Firebase
+- React Router
+- TanStack Query
+- Formik
+- Axios
 
 ## Other technologies
 
-- Gatsby
-- GraphQl
 - Docker
-- Jest
 - Socket.io
+- .Net
+- Firebase
+
+## 🌱 I’m currently learning:
+
+- React Three Fiber
+- ThreeJs
+- Blender
 
 ## 🔭 I’m currently working on:
 
-**Battleships:**
+**LegoTrains**
 
-**Repository:** https://github.com/Fanki11er/Battleships_2
+It's the very early stage of application for building Lego train 3D models.
+
+**Repository:** https://github.com/Fanki11er/LegoTrains
 </br>
 
+<div align="center" ><img src="https://github.com/Fanki11er/Fanki11er/raw/master/images/LegoTrains_1.png" width="500px"/></div>
+</br>
+<div align="center" ><img src="https://github.com/Fanki11er/Fanki11er/raw/master/images/LegoTrains_2.png" width="500px"/></div>
 
 <!--
 **Fanki11er/Fanki11er** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
