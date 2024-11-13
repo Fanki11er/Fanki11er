@@ -74,9 +74,9 @@ It's the very early stage of application for building Lego train 3D models.
 </br>
 <div align="center" ><img src="https://github.com/Fanki11er/Fanki11er/blob/master/images/LegoTrains_2.PNG" width="500px"/></div>
 </br>
-<div align="center" ><img src="https://github.com/Fanki11er/Fanki11er/blob/master/images/LegoTrains_3.PNG" width="500px"/></div>
+<div align="center" ><img src="https://github.com/Fanki11er/Fanki11er/blob/master/images/LegoTrains_3.png" width="500px"/></div>
 </br>
-<div align="center" ><img src="https://github.com/Fanki11er/Fanki11er/blob/master/images/LegoTrains_4.PNG" width="500px"/></div>
+<div align="center" ><img src="https://github.com/Fanki11er/Fanki11er/blob/master/images/LegoTrains_4.png" width="500px"/></div>
 <!--
 **Fanki11er/Fanki11er** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
