@@ -13,7 +13,7 @@ I am a graduate of Computer Science at Bialystok University of Technology. I am 
 </br>
 <div><img src="https://github.com/Fanki11er/Fanki11er/raw/master/images/Person.svg" width="80px"/></div> 
  
- [**My website**](https://dziedzic-about-me.firebaseapp.com/?utm_source=Github&utm_content=Readme)
+ [**My website**](https://dziedzic-about-me.vercel.app)
  
  </br>
 
@@ -45,6 +45,7 @@ Application is for facilitating work in a small warehouse by creating tags with 
 - Styled-components
 - React Router
 - TanStack Query
+- Tanstack Table
 - Formik
 - Axios
 
@@ -54,18 +55,20 @@ Application is for facilitating work in a small warehouse by creating tags with 
 - Socket.io
 - .Net
 - Firebase
+- Figma
 
 ## 🌱 I’m currently learning:
 
 - React Three Fiber
 - ThreeJs
 - Blender
+- Next
 
 ## 🔭 I’m currently working on:
 
 **LegoTrains**
 
-It's the very early stage of application for building Lego train 3D models.
+It's the early stage of application for building Lego train 3D models.
 
 **Repository:** https://github.com/Fanki11er/LegoTrains
 </br>
@@ -77,6 +80,10 @@ It's the very early stage of application for building Lego train 3D models.
 <div align="center" ><img src="https://github.com/Fanki11er/Fanki11er/blob/master/images/LegoTrains_3.png" width="500px"/></div>
 </br>
 <div align="center" ><img src="https://github.com/Fanki11er/Fanki11er/blob/master/images/LegoTrains_4.png" width="500px"/></div>
+</br>
+<div align="center" ><img src="https://github.com/Fanki11er/Fanki11er/blob/master/images/LegoTrains_5.png" width="500px"/></div>
+<br/>
+<div align="center" ><img src="https://github.com/Fanki11er/Fanki11er/blob/master/images/LegoTrains_6.png" width="500px"/></div>
 <!--
 **Fanki11er/Fanki11er** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
