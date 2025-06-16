@@ -21,20 +21,33 @@ I am a graduate of Computer Science at Bialystok University of Technology. I am 
  
  **My other projects:**
 
-[**Battleships**](https://kdz-battleships.firebaseapp.com/)
+[**Battleships ➡️**](https://kdz-battleships.firebaseapp.com/)
 
 Free browser multiplayer battleships game.
+
+<hr>
 </br>
 
-[**Kasiorka**](https://kdz-kasiorka.firebaseapp.com/?utm_source=Github&utm_content=Readme)
+[**LegoTrains ➡️**](https://lego-trains.web.app/)
+
+It is a personal project focused on creating a web application for building and visualising 3D models of Lego trains. The goal is to provide an interactive platform that enables users to build existing Lego train sets virtually using modern web technologies.
+</br>
+
+<hr>
+
+[**Qr-warehouse ➡️**](https://kdz-qr.firebaseapp.com/?utm_source=Github&utm_content=Readme)
+
+Application is for facilitating work in a small warehouse by creating tags with Qr-code and scanning them by phone or tablet.
+</br>
+
+<hr>
+
+[**Kasiorka ➡️**](https://kdz-kasiorka.firebaseapp.com/?utm_source=Github&utm_content=Readme)
 
 Application is for supervising home budget, tracking expenses and predicting budgets shape in the future.
 </br>
 
-[**Qr-warehouse**](https://kdz-qr.firebaseapp.com/?utm_source=Github&utm_content=Readme)
-
-Application is for facilitating work in a small warehouse by creating tags with Qr-code and scanning them by phone or tablet.
-</br>
+<hr>
 
 [**YouTube playlist with some videos about my projects ▶️**](https://www.youtube.com/playlist?list=PLmF_0FAPtKqHSusK617xdx6xrl3ZdzwaK)
 
@@ -67,8 +80,6 @@ Application is for facilitating work in a small warehouse by creating tags with 
 ## 🔭 I’m currently working on:
 
 **LegoTrains**
-
-It's the early stage of application for building Lego train 3D models.
 
 **Repository:** https://github.com/Fanki11er/LegoTrains
 </br>
